@@ -4,8 +4,7 @@ a {
 }
 
 p {
-  color: #81afef;
-
+  color: white;
 }
 
 
@@ -23,5 +22,6 @@ div {
     border: 5px solid black;
     padding: 20px;
     margin: 40px auto;
+    background-color: #81afef;
 
 }
